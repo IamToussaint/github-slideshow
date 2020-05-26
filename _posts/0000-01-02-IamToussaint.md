@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ----
-your text
+dont do anything important when youre knackered!
 use the left arrow to go back!
